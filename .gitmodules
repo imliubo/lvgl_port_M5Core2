@@ -1,0 +1,15 @@
+[submodule "components/i2c_manager"]
+	path = components/i2c_manager
+	url = https://github.com/ropg/i2c_manager.git
+[submodule "components/axp192"]
+	path = components/axp192
+	url = https://github.com/tuupola/axp192.git
+[submodule "components/lvgl_esp32_drivers"]
+	path = components/lvgl_esp32_drivers
+	url = https://github.com/lvgl/lvgl_esp32_drivers.git
+[submodule "components/lvgl"]
+	path = components/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "components/lv_examples/lv_demos"]
+	path = components/lv_examples/lv_demos
+	url = https://github.com/lvgl/lv_demos.git
